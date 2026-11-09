@@ -1,0 +1,12 @@
+{
+  "name": "suzuyasu-denki",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/server.mjs --production"
+  },
+  "engines": { "node": ">=20" }
+}
